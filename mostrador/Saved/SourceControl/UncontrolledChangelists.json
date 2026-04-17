@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/obedj/OneDrive/Desktop/Unreal_engine_GUGDL/mostrador/Content/Widgets/WB_MainMenu.uasset",
+				"C:/Users/obedj/OneDrive/Desktop/Unreal_engine_GUGDL/mostrador/Content/Variant_Combat/UI/UI_LifeBar.uasset",
+				"C:/Users/obedj/OneDrive/Desktop/Unreal_engine_GUGDL/mostrador/Content/Variant_Combat/Blueprints/BP_CombatCharacter.uasset"
+			]
+		}
+	]
+}
